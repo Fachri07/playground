@@ -1,5 +1,5 @@
 // Menukar variabel a dan b dengan operator matematika
-
+const prompt = require("prompt-sync")({ sigint: true });
 let a = prompt('Masukan variabel pertama: ');
 let b = prompt('Masukan variabel kedua: ');
 
