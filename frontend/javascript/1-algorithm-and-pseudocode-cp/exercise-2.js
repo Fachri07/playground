@@ -1,4 +1,9 @@
 // Buatlah pseudocode untuk mengecek apakah seseorang dapat membuat SIM atau tidak.
 // Seseorang diperbolehkan membuat SIM jika usianya lebih besar atau sama dengan 17 tahun.
 
-// TODO: answer here
+// TODO: 
+//START
+//INPUT umur
+//IF umur >= 17 THEN
+//  PRINT "Diperbolehkan membuat SIM"
+//ENDIF
