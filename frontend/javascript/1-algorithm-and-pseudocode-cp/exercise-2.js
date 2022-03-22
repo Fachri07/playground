@@ -6,4 +6,7 @@
 //INPUT umur
 //IF umur >= 17 THEN
 //  PRINT "Diperbolehkan membuat SIM"
+//  ELSE
+//    PRINT "tidak diperbolehkan"
+//  END ELSE
 //ENDIF
